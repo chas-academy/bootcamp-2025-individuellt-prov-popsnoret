@@ -3,6 +3,6 @@
 export function combineStrings(strings) {
   let result = "";
   strings.forEach((string) => {});
-
+  result.join();
   return result;
 }
